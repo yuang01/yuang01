@@ -44,7 +44,7 @@ Blogger, Lifelong learner.
 
 
 <p>
-    <a href="https://qiufeng.blue/">
+    <a href="https://yuang01.github.io/">
       <img src="https://github-profile-trophy.vercel.app/?username=yuang01&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
     </a>
 </p>
