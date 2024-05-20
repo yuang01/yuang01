@@ -24,8 +24,6 @@ Blogger, Lifelong learner.
 
 <img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=Svelte&logoColor=white&style=flat-square" alt="Svelte" /><img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=Vue.js&logoColor=%234fc08d&style=flat-square" alt="Vue.js" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" /> 
 
-![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=opengl)
-![WebGL](https://img.shields.io/badge/-WebGL-000?&logo=webgl)
 
 <img src="https://img.shields.io/badge/Babel-%23323330.svg?logo=babel&logoColor=%23f9dc3e&style=flat-square" alt="Babel" /> <img src="https://img.shields.io/badge/Webpack-%231e72b3.svg?logo=Webpack&logoColor=white&style=flat-square" alt="Webpack" /> 
 <img src="https://img.shields.io/badge/Vite-%23000000.svg?logo=vite&logoColor=blue&style=flat-square" alt="Webpack" >
