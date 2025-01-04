@@ -14,6 +14,7 @@ Blogger, Lifelong learner.
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
+<img alt="Static Badge" src="https://img.shields.io/badge/java-%233a75b0?style=flat&logo=spring&logoColor=%23fff">
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
 
